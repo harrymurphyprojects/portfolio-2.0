@@ -14,6 +14,9 @@ function Navbar() {
         <li className="nav-item">
           <a href="#projects" className="nav-link active">Projects</a>
         </li>
+        <li className="nav-item">
+          <a href="#interests" className="nav-link active">Interests</a>
+        </li>
         <li className="justify-content-right">
           <a className="btn" href="https://www.linkedin.com/in/harry-murphy-projects">
             <LinkedIn fontSize="Large" />

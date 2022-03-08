@@ -1,8 +1,8 @@
 function Skills() {
 
   return (
-    <section className="container pt-5" id='skills'>
-      <h1 className="display-6 pt-2" >Here are some of my coding skills...</h1>
+    <section className="container pt-4" id='skills'>
+      <h1 className="display-6 text-center" >Coding skills</h1>
       <hr className="col-12 bg-dark border-2 border-top border-dark mt-5"></hr>
       <div className="row mt-2">
         <ul className="col list-unstyled text-center">
