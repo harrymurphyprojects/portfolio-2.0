@@ -6,6 +6,7 @@ import Projects from './components/Projects'
 import Navbar from './components/Navbar'
 import Profile from './components/Profile'
 import Footer from './components/Footer'
+import Interests from './components/Interests'
 
 function App() {
   return (
@@ -18,6 +19,9 @@ function App() {
         <Skills />
       </div><div className="container mt-5">
         <Projects />
+      </div>
+      <div className="container mt-5">
+        <Interests />
       </div>
       <div className="container mt-5">
         <Footer />
